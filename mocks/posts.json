@@ -1,0 +1,260 @@
+[
+  {
+    "_id": "dermatite-eczema-atopique",
+    "type": "article",
+    "date": "2022-11-03T09:40:31+0000",
+    "title": "La dermatite atopique (eczéma atopique)  ",
+    "image": "https://images.prismic.io/wefight-medias/592170ba-a7ed-40b7-8987-c008b3f68847_dermatite-atopique.jpg?auto=compress,format&rect=924,0,3648,3648&w=150&h=150",
+    "content": "Si tu vis avec la dermatite atopique, cet article est pour toi !",
+    "highlight": false
+  },
+  {
+    "_id": "journee-vie-patient-temoignage-conseils",
+    "type": "article",
+    "date": "2022-11-12T23:00:07+0000",
+    "title": "Une journée dans la vie d’une patient.e",
+    "image": "https://images.prismic.io/wefight-medias/60fc9a04-9e18-4cf9-a394-be2bdc520e82_Photo+de+Camille.jpg?auto=compress,format&rect=0,128,768,768&w=150&h=150",
+    "content": " Le quotidien d'un.e patient.e c'est pas de tout repos. On fait face à des défis rythmés par l'impact de la maladie et ce n'est pas toujours facile à gérer. Je suis Camille, patiente atteinte de dermatite atopique et je te raconte mon quotidien dans ce nouvel article. ",
+    "highlight": true
+  },
+  {
+    "_id": "depuis-lannonce-de-votre-maladie-une-nouvelle-personne",
+    "type": "article",
+    "date": "2022-07-28T22:00:20+0000",
+    "title": "Soigner la relation avec son médecin",
+    "image": "https://images.prismic.io/wefight-medias/c4d8fc95-9995-41f3-9103-79c222cb5f00_national-cancer-institute-DK--4VWK1tw-unsplash.jpg?auto=compress,format&rect=1776,0,7200,7200&w=150&h=150",
+    "content": "L'annonce de votre diagnostic signe entre vous et votre médecin, la naissance d'une nouvelle relation. Un rapport d'entraide s'installe pour mener à bien le parcours de soin. ",
+    "highlight": false
+  },
+  {
+    "_id": "vivre-mieux-eczema-atopique-solution",
+    "type": "article",
+    "date": "2022-10-16T22:00:50+0000",
+    "title": "«Il est totalement possible de mieux vivre avec l’eczéma atopique, voici ce qui m’a aidé»",
+    "image": "https://images.prismic.io/wefight-medias/3cb8265c-e557-4d8d-9dda-8b0e760918ce_saskia.jpg?auto=compress,format&rect=140,0,362,362&w=150&h=150",
+    "content": "« j’aurais aimé qu’on me dise plus tôt que le plus important est avant tout d’écouter sa peau : l’eczéma atopique est un message que le corps envoie pour nous rappeler de prendre soin de nous et il est totalement possible de mieux vivre avec. » Dans cet article, la patiente et influenceuse Saskia Slama partage son expérience avec la maladie et ce qui l’a aidé le plus.",
+    "highlight": false
+  },
+  {
+    "_id": "eczema-astuces-mieux-vivre",
+    "type": "article",
+    "date": "2022-09-01T07:22:37+0000",
+    "title": "Eczéma : 7 astuces pour mieux vivre avec",
+    "image": "https://images.prismic.io/wefight-medias/c2732c9e-9078-4fd6-9a82-785de37fa163_eczema-astuces.jpg?auto=compress,format&rect=922,0,3951,3951&w=150&h=150",
+    "content": "Vivre avec l'eczéma peut être compliqué, mais il y a des solutions. Voici 7 astuces simples pour mieux vivre avec ! ",
+    "highlight": false
+  },
+  {
+    "_id": "comment-preparer-ses-vacances-avec-la-maladie",
+    "type": "article",
+    "date": "2022-07-19T12:30:54+0000",
+    "title": "Comment préparer ses vacances avec la maladie?",
+    "image": "https://images.prismic.io/wefight-medias/bac69779-b520-4745-a862-0cbc744a1f30_tumblr_nj4og1OLYI1u6riv1o4_400.jpg?auto=compress,format&rect=50,0,300,300&w=150&h=150",
+    "content": "Que je sois malade ou en pleine santé, le voyage a toujours été ma priorité. Vivant avec de l’eczéma (et de l’asthme), j’ai laissé un peu “de ma peau” dans différents endroits : Sicile, Malte, Costa Rica, Espagne, Pays Bas.  ",
+    "highlight": false
+  },
+  {
+    "_id": "recette-galettes-brocoli-parmesan",
+    "type": "article",
+    "date": "2022-08-19T22:00:16+0000",
+    "title": "Recette de galettes de brocoli au parmesan ",
+    "image": "https://images.prismic.io/wefight-medias/a174bb16-86df-41b1-9d3a-2b38b0745f9d_unnamed.jpeg?auto=compress,format&rect=174,0,1041,1041&w=150&h=150",
+    "content": "Les fibres sont à intégrer impérativement dans ton alimentation si tu souffres de constipation. Voici une recette de galettes de brocoli au parmesan parfaite pour ton transit et gourmande pour tes papilles ! ",
+    "highlight": true
+  },
+  {
+    "_id": "ce-qui-ma-aide-a-sortir-de-lerrance-therapeutique",
+    "type": "article",
+    "date": "2022-04-20T09:00:02+0000",
+    "title": "Ce qui m’a aidé à sortir de l’errance thérapeutique (et trouver le meilleur traitement pour mon eczéma)",
+    "image": "https://images.prismic.io/wefight-medias/60fc9a04-9e18-4cf9-a394-be2bdc520e82_Photo+de+Camille.jpg?auto=compress,format&rect=0,128,768,768&w=150&h=150",
+    "content": "Cette errance ressemble à une enquête archéologique, j’ai passé des mois à faire des recherches pour comprendre le mécanisme de l’eczéma.",
+    "highlight": false
+  },
+  {
+    "_id": "les-causes-des-poussees-de-da",
+    "type": "article",
+    "date": "2021-04-12T15:32:56+0000",
+    "title": "Comment savoir ce qui déclenche ma dermatite atopique ?",
+    "image": "https://images.prismic.io/wefight-medias/369fca99-67e0-4456-8ae1-ba843551ddad_photo-1509384473936-2d36ab6e198d.jpg?auto=compress,format&rect=0,163,976,976&w=150&h=150",
+    "content": "Comment savoir ce qui déclenche mon eczéma ? C’est la question à un million pour tous ceux qui sont concernés par la maladie. Découvre dans cet article des éléments de réponse.",
+    "highlight": false
+  },
+  {
+    "_id": "5-etapes-bien-demarrer-ta-journee",
+    "type": "article",
+    "date": "2021-04-08T15:09:21+0000",
+    "title": "5 étapes pour bien démarrer ta journée ! ",
+    "image": "https://images.prismic.io/wefight-medias/a28b7e92-6496-4e71-ba2f-d03d53ce0c8e_gabriele-stravinskaite-fzcluHBur3o-unsplash.jpg?auto=compress,format&rect=0,912,3699,3699&w=150&h=150",
+    "content": "Quand on vit avec une maladie chronique, les matins peuvent être durs. Dans cet article, Camille te partage ses 5 rituels  qui l'aide à mieux démarrer ses journées. Qui sait, cela pourrait t'inspirer ?",
+    "highlight": false
+  },
+  {
+    "_id": "61813a68b39bfadf5a0f91db",
+    "type": "content",
+    "date": "2021-10-19T09:40:31+0000",
+    "title": "DA & Cuir chevelu",
+    "content": [
+      "Plusieurs formes d’eczéma peuvent toucher le cuir chevelu ☝️ : la dermite séborrhéique, l’eczéma atopique ou l’eczéma allergique.",
+      "🔸 Dans le cas d’une allergie, les symptômes sont vésiculeux (bouton avec du liquide). Le crane est souvent la seule zone touchée. La première chose à faire ici est de supprimer l’agent déclenchant (shampoing 🧴, coloration…).",
+      "🔸 Dans le cas de l’eczéma atopique, ces lésions sont présentes surtout si d’autres parties du corps sont touchées. Elles ont un aspect « classique » d’eczéma, soit suintant, soit sec.",
+      "N’oublie pas que seul un dermatologue 👩‍⚕ peut poser le diagnostic ! Si tu veux savoir comment traiter les atteintes du cuir chevelu, clique sur le bouton ci-dessous 👇 :"
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "61baffb7732ddd0939bf1e1c",
+    "type": "content",
+    "date": "2021-10-20T09:40:31+0000",
+    "title": "Ichtyose",
+    "content": [
+      "On parle d’ichtyoses pour évoquer des maladies héréditaires touchant le processus de formation de l’épiderme (= la kératinisation).",
+      "On en retrouve différentes formes, mais la plus fréquente est nommée ichtyose vulgaire ☝️. Elle débute pendant l’enfance et est caractérisée par une peau des membres et du tronc sèche et écailleuse (« peau de serpent »).",
+      "L’ichtyose vulgaire est souvent associée à la dermatite atopique, du fait de leur possible origine génétique commune : le déficit en filaggrine 🧬.",
+      "Le traitement local est l'hydratation par des émollients 🧴, auxquels peuvent être ajoutés des kératolytiques (urée, acide salicylique)."
+    ],
+    "highlight": true
+  },
+  {
+    "_id": "61652e2cd880ef001b41770a",
+    "type": "content",
+    "date": "2021-10-21T09:40:31+0000",
+    "title": "LSA & DA",
+    "content": [
+      "Le lichen scléro-atrophique (LSA) est une dermatose inflammatoire fibrosante chronique, à prédominance féminine. 👩‍🦰 Il touche majoritairement la région ano-génitale.",
+      "Celui-ci se caractérise par des démangeaisons, une irritation au niveau des muqueuses ainsi que des douleurs et des difficultés à uriner.❌",
+      "Cependant, il ne faut pas t'inquiéter ! ☝️ Cette maladie n'est pas contagieuse et se contrôle facilement avec l'application d'un dermocorticoïde. 😉"
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "5f2289ccc4c596001a7844f1",
+    "type": "content",
+    "date": "2021-08-23T09:40:31+0000",
+    "title": "Le derme",
+    "content": [
+      "Le derme 🔎 est la couche la plus épaisse de la peau. Il se trouve sous l’épiderme 👇.",
+      "Il est constitué de protéines (collagène et élastine) qui donne à la peau de la force 💪, solidité, extensibilité et flexibilité 🤸‍♀️.",
+      "Mais il abrite également d'autres structures comme des vaisseaux sanguins 🩸, des follicules pileux (cavité où prend naissance le poil), des glandes sudoripares (qui fabriquent la sueur) 🥵..."
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "5f2289ccc4c596001a7844e1",
+    "type": "content",
+    "date": "2021-10-14T09:40:31+0000",
+    "title": "L'épiderme",
+    "content": [
+      "L’épiderme 🔎  est la couche supérieure de la peau, c’est-à-dire la couche la plus externe. C’est celle que tu peux voir 🧐 !",
+      "C’est une couche très mince, mais aussi très résistante 💪. Elle protège ton corps et te donne ta couleur de peau.",
+      "Elle est constituée de plusieurs couches de cellules différentes, ainsi que d'une protéine particulière : la filaggrine 👆."
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "5f2289ccc4c596001a784501",
+    "type": "content",
+    "date": "2021-12-26T09:40:31+0000",
+    "title": "Fonctions de la peau",
+    "content": [
+      "Grâce à ses couches, la peau assure de nombreuses fonctions 🤗 :"
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "5f2289ccc4c596001a7844f9",
+    "type": "content",
+    "date": "2021-02-03T09:40:31+0000",
+    "title": "Hypoderme",
+    "content": [
+      "L'hypoderme 🔎 est la couche la plus profonde de la peau. Il se trouve sous le derme 👇.",
+      "Il est majoritairement constitué de tissu graisseux. Ainsi, il permet de protéger le corps contre les blessures ⚔ et de conserver la chaleur corporelle 🌡."
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "62a85c9d871c1330ecf35a44",
+    "type": "questionnaire",
+    "date": "2021-10-19T09:40:31+0000",
+    "title": "Evaluation du Contrôle",
+    "content": "Coucou ! Je te propose de répondre à un rapide questionnaire 📃 (de six questions), afin d'évaluer le contrôle de ta dermatite atopique ! 👇👇",
+    "highlight": false
+  },
+  {
+    "_id": "62a85c9d871c13a96df358d2",
+    "type": "questionnaire",
+    "date": "2022-06-04T09:40:31+0000",
+    "title": "Evaluation de la Sévérité",
+    "content": "Salut ! Je te propose de répondre à ce rapide questionnaire, de sept questions, afin d'évaluer l'intensité de ta dermatite atopique !👇👇",
+    "highlight": false
+  },
+  {
+    "_id": "62a85c9d871c13e5e7f357b6",
+    "type": "questionnaire",
+    "date": "2022-09-09T09:40:31+0000",
+    "title": "Sévérité des Insomnies",
+    "content": "Salut 👋 ! Je te propose de répondre à ce court questionnaire afin d'évaluer tes éventuelles insomnies 😴 ! Effectivement, certaines personnes touchées par la dermatite atopique peuvent être réveillées la nuit à cause de crises nocturnes !",
+    "highlight": false
+  },
+  {
+    "_id": "61ae1f9586cc85cfe1e083da",
+    "type": "qdj",
+    "date": "2021-12-08T09:40:31+0000",
+    "title": "QDJ - Observance médicamenteuse",
+    "content": "Aujourd'hui j'aimerai te parler de l'observance médicamenteuse ! As-tu déjà entendu parler de cela ? 🤗",
+    "highlight": false
+  },
+  {
+    "_id": "61e5297949125578bb522837",
+    "type": "qdj",
+    "date": "2022-02-19T09:40:31+0000",
+    "title": "QDJ - Rendez-vous",
+    "content": "Coucou ! Je sais qu'il peut parfois être compliqué pour les personnes atteintes de dermatite atopique de trouver un rendez-vous médical 👩‍⚕ rapidement ! Est-ce que c'est ton cas ?",
+    "highlight": false
+  },
+  {
+    "_id": "616825d5244c3912a13a653b",
+    "type": "qdj",
+    "date": "2021-10-14T09:40:31+0000",
+    "title": "QDJ - Impact(s)",
+    "content": "Coucou ! Vivre avec une dermatite atopique, au quotidien, n'est pas toujours facile. 😞 Je voulais donc savoir si pour toi, la dermatite atopique avait un impact sur ton quotidien et à quel degré? Pour cela, je t'invite à cliquer sur le bouton qui te correspond juste en dessous 👇👇👇",
+    "highlight": false
+  },
+  {
+    "_id": "609a881ffe7cdd001a0eac37",
+    "type": "testimony",
+    "date": "2022-01-09T09:40:31+0000",
+    "title": "Témoignage d'Elsa, 24 ans",
+    "content": [
+      "Je m'appelle Elsa, j'ai 28 ans. J'ai une dermatite atopique depuis toujours. Je pense qu'elle a débuté quand j'étais tout bébé 👶. J'ai grandi avec et petit à petit j'ai appris qu'il valait mieux prévenir que guérir !",
+      "Pour cela, je repère les éléments déclencheurs de mes crises : notamment le stress et la fatigue ! Les lésions apparaissaient très souvent en période d'examens par exemple !",
+      "Désormais, dès que ma peau commence à démanger ou que j’aperçois une petite lésion, je t'attends pas pour appliquer mon traitement que m'a donné mon dermato."
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "61883188ff4a50001ac0c59b",
+    "type": "testimony",
+    "date": "2022-04-12T09:40:31+0000",
+    "title": "Témoignage de Fab, 19 ans",
+    "content": [
+      "Bonjour :) Je suis Fab et j'ai 19 ans, j'ai de la dermatite atopique depuis mes 3 ans.",
+      "Ma dermatite atopique a toujours été à un niveau supportable, ça bougeait tout le temps d'endroit, jusqu'à mes 15 ans où c'est devenu vraiment incontrôlable.  je portais des bandages aux avant-bras et j'utilisais de la vaseline.",
+      "Je n'écarte pas l'hypothèse d'un TSW/RSS (qui équivaut à \"l'addiction à la cortisone\" soit \"le syndrome de la peau rouge\") mais malheureusement c'est pas reconnu 🤷🏻",
+      "Sinon j'utilise du cérat de Galien que je met au frigo et c'est vraiment génial pour hydrater ! Mon traitement et les poches de glace c'est super aussi."
+    ],
+    "highlight": false
+  },
+  {
+    "_id": "609a899ffe7cdd001a0ebf09",
+    "type": "testimony",
+    "date": "2022-05-20T09:40:31+0000",
+    "title": "Témoignage de Thomas, 27 ans",
+    "content": [
+      "Salut 👋 ! Je m'appelle Thomas, j'ai  27 ans. Depuis l’âge de 4 ans, je retrouve régulièrement du sang 🩸 sur mes draps et mes pyjamas, en particulier au niveau des coudes, des genoux, des poignets, et de l’arrière des oreilles. La cause ? Les démangeaisons liées à ma dermatite atopique.",
+      "Je suis sous traitement depuis tout petit, autant dire que ça n'a pas toujours été facile ! Cela m'a fortement complexé au collège 😓, et m'a provoqué beaucoup de stress, qui favorise encore plus l’eczéma. J'étais dans un cercle vicieux 😕…",
+      "Heureusement j'ai eu le temps de tester plein de solutions différentes, jusqu'à trouver LA meilleure pour moi ! J'hydrate ma peau quotidiennement 🧴, et je vois mon dermatologue régulièrement pour en discuter ! La vie est belle non ? ❤"
+    ],
+    "highlight": false
+  }
+]

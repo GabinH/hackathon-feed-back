@@ -1,0 +1,17 @@
+[in(my.article.uid, [
+"dermatite-eczema-atopique",
+"journee-vie-patient-temoignage-conseils",
+"depuis-lannonce-de-votre-maladie-une-nouvelle-personne",
+"vivre-mieux-eczema-atopique-solution",
+"eczema-astuces-mieux-vivre",
+"comment-preparer-ses-vacances-avec-la-maladie",
+"recette-galettes-brocoli-parmesan",
+"ce-qui-ma-aide-a-sortir-de-lerrance-therapeutique",
+"les-causes-des-poussees-de-da",
+"5-etapes-bien-demarrer-ta-journee",
+"eviter-crises-dermatite-soin-peau",
+"chaleur-conseils-eviter-crises",
+"portraitcamille",
+"portrait-auriane",
+"allier-conscience-ecologique-maladie"
+])]

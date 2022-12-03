@@ -1,0 +1,15 @@
+name: Deploy docker image
+
+on:
+  release:
+    types:
+      - published
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  deploy:
+    uses: wefight-devs/.github/.github/workflows/deploy.yml@v1.2.0
+    with:
+      semverTagName: ${{ github.ref_name }}
+      imageName: poc_new_feed_back
+    secrets: inherit

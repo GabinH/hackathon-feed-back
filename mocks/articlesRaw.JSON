@@ -1,0 +1,1684 @@
+ObjectId('61813a68b39bfadf5a0f91db')
+ObjectId('61baffb7732ddd0939bf1e1c')
+ObjectId('61652e2cd880ef001b41770a')
+ObjectId('5f2289ccc4c596001a7844d7')
+ObjectId('5f2289ccc4c596001a7844f1')
+ObjectId('5f2289ccc4c596001a7844e1')
+ObjectId('5f2289ccc4c596001a7844e9')
+ObjectId('5f2289ccc4c596001a784501')
+ObjectId('5f2289ccc4c596001a7844f9')
+ObjectId('5f2289ccc4c596001a7844d7')
+
+
+
+{
+  "results": [
+    {
+      "_id": "dermatite-eczema-atopique",
+      "type": "article",
+      "date": "2022-11-03T09:40:31+0000",
+      "title": "La dermatite atopique (eczéma atopique)  ",
+      "image": "https://images.prismic.io/wefight-medias/592170ba-a7ed-40b7-8987-c008b3f68847_dermatite-atopique.jpg?auto=compress,format&rect=924,0,3648,3648&w=150&h=150",
+      "content": "Si tu vis avec la dermatite atopique, cet article est pour toi !",
+      "highlight": false
+    },
+    {
+      "_id": "journee-vie-patient-temoignage-conseils",
+      "type": "article",
+      "date": "2022-11-12T23:00:07+0000",
+      "title": "Une journée dans la vie d’une patient.e",
+      "image": "https://images.prismic.io/wefight-medias/60fc9a04-9e18-4cf9-a394-be2bdc520e82_Photo+de+Camille.jpg?auto=compress,format&rect=0,128,768,768&w=150&h=150",
+      "content": " Le quotidien d'un.e patient.e c'est pas de tout repos. On fait face à des défis rythmés par l'impact de la maladie et ce n'est pas toujours facile à gérer. Je suis Camille, patiente atteinte de dermatite atopique et je te raconte mon quotidien dans ce nouvel article. ",
+      "highlight": false
+    },
+    {
+      "_id": "depuis-lannonce-de-votre-maladie-une-nouvelle-personne",
+      "type": "article",
+      "date": "2022-07-28T22:00:20+0000",
+      "title": "Soigner la relation avec son médecin",
+      "image": "https://images.prismic.io/wefight-medias/c4d8fc95-9995-41f3-9103-79c222cb5f00_national-cancer-institute-DK--4VWK1tw-unsplash.jpg?auto=compress,format&rect=1776,0,7200,7200&w=150&h=150",
+      "content": "L'annonce de votre diagnostic signe entre vous et votre médecin, la naissance d'une nouvelle relation. Un rapport d'entraide s'installe pour mener à bien le parcours de soin. ",
+      "highlight": false
+    },
+    {
+      "_id": "vivre-mieux-eczema-atopique-solution",
+      "type": "article",
+      "date": "2022-10-16T22:00:50+0000",
+      "title": "«Il est totalement possible de mieux vivre avec l’eczéma atopique, voici ce qui m’a aidé»",
+      "image": "https://images.prismic.io/wefight-medias/3cb8265c-e557-4d8d-9dda-8b0e760918ce_saskia.jpg?auto=compress,format&rect=140,0,362,362&w=150&h=150",
+      "content": "« j’aurais aimé qu’on me dise plus tôt que le plus important est avant tout d’écouter sa peau : l’eczéma atopique est un message que le corps envoie pour nous rappeler de prendre soin de nous et il est totalement possible de mieux vivre avec. » Dans cet article, la patiente et influenceuse Saskia Slama partage son expérience avec la maladie et ce qui l’a aidé le plus.",
+      "highlight": false
+    },
+    {
+      "_id": "eczema-astuces-mieux-vivre",
+      "date": "2022-09-01T07:22:37+0000",
+      "title": "Eczéma : 7 astuces pour mieux vivre avec",
+      "image": "https://images.prismic.io/wefight-medias/c2732c9e-9078-4fd6-9a82-785de37fa163_eczema-astuces.jpg?auto=compress,format&rect=922,0,3951,3951&w=150&h=150",
+      "content": "Vivre avec l'eczéma peut être compliqué, mais il y a des solutions. Voici 7 astuces simples pour mieux vivre avec ! ",
+      "highlight": false
+    },
+    {
+      "_id": "comment-preparer-ses-vacances-avec-la-maladie",
+      "date": "2022-07-19T12:30:54+0000",
+      "title": "Comment préparer ses vacances avec la maladie?",
+      "image": "https://images.prismic.io/wefight-medias/bac69779-b520-4745-a862-0cbc744a1f30_tumblr_nj4og1OLYI1u6riv1o4_400.jpg?auto=compress,format&rect=50,0,300,300&w=150&h=150",
+      "content": "Que je sois malade ou en pleine santé, le voyage a toujours été ma priorité. Vivant avec de l’eczéma (et de l’asthme), j’ai laissé un peu “de ma peau” dans différents endroits : Sicile, Malte, Costa Rica, Espagne, Pays Bas.  ",
+      "highlight": false
+    },
+    {
+      "_id": "recette-galettes-brocoli-parmesan",
+      "type": "article",
+      "date": "2022-08-19T22:00:16+0000",
+      "title": "Recette de galettes de brocoli au parmesan ",
+      "image": "https://images.prismic.io/wefight-medias/a174bb16-86df-41b1-9d3a-2b38b0745f9d_unnamed.jpeg?auto=compress,format&rect=174,0,1041,1041&w=150&h=150",
+      "content": "Les fibres sont à intégrer impérativement dans ton alimentation si tu souffres de constipation. Voici une recette de galettes de brocoli au parmesan parfaite pour ton transit et gourmande pour tes papilles ! ",
+      "highlight": false
+    },
+    {
+      "_id": "ce-qui-ma-aide-a-sortir-de-lerrance-therapeutique",
+      "type": "article",
+      "date": "2022-04-20T09:00:02+0000",
+      "title": "Ce qui m’a aidé à sortir de l’errance thérapeutique (et trouver le meilleur traitement pour mon eczéma)",
+      "image": "https://images.prismic.io/wefight-medias/60fc9a04-9e18-4cf9-a394-be2bdc520e82_Photo+de+Camille.jpg?auto=compress,format&rect=0,128,768,768&w=150&h=150",
+      "content": "Cette errance ressemble à une enquête archéologique, j’ai passé des mois à faire des recherches pour comprendre le mécanisme de l’eczéma.",
+      "highlight": false
+    },
+    {
+      "_id": "les-causes-des-poussees-de-da",
+      "type": "article",
+      "date": "2021-04-12T15:32:56+0000",
+      "title": "Comment savoir ce qui déclenche ma dermatite atopique ?",
+      "image": "https://images.prismic.io/wefight-medias/369fca99-67e0-4456-8ae1-ba843551ddad_photo-1509384473936-2d36ab6e198d.jpg?auto=compress,format&rect=0,163,976,976&w=150&h=150",
+      "content": "Comment savoir ce qui déclenche mon eczéma ? C’est la question à un million pour tous ceux qui sont concernés par la maladie. Découvre dans cet article des éléments de réponse.",
+      "highlight": false
+    },
+    {
+      "_id": "5-etapes-bien-demarrer-ta-journee",
+      "type": "article",
+      "date": "2021-04-08T15:09:21+0000",
+      "title": "5 étapes pour bien démarrer ta journée ! ",
+      "image": "https://images.prismic.io/wefight-medias/a28b7e92-6496-4e71-ba2f-d03d53ce0c8e_gabriele-stravinskaite-fzcluHBur3o-unsplash.jpg?auto=compress,format&rect=0,912,3699,3699&w=150&h=150",
+      "content": "Quand on vit avec une maladie chronique, les matins peuvent être durs. Dans cet article, Camille te partage ses 5 rituels  qui l'aide à mieux démarrer ses journées. Qui sait, cela pourrait t'inspirer ?",
+      "highlight": false
+    },
+    {
+      "id": "YqNbkREAACMA2kFp",
+      "_id": "eviter-crises-dermatite-soin-peau",
+      "url": null,
+      "type": "article",
+      "href": "https://wefight-medias.cdn.prismic.io/api/v2/documents/search?ref=Y4UIbRAAACAApMsc&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YqNbkREAACMA2kFp%22%29+%5D%5D",
+      "tags": [],
+      "date": "2022-06-10T14:56:28+0000",
+      "last_publication_date": "2022-06-10T14:56:28+0000",
+      "slugs": [
+        "comment-eviter-les-crises-de-dermatite-en-prenant-soin-de-ma-peau-"
+      ],
+      "linked_documents": [],
+      "lang": "fr-fr",
+      "alternate_languages": [],
+      "data": {
+        "type_article": "advice",
+        "canonical_url_on_media": "vik_da",
+        "author": {
+          "id": "YGLvzxAAAB8AMCkQ",
+          "type": "auteurs",
+          "tags": [],
+          "lang": "fr-fr",
+          "slug": "vik",
+          "date": "2021-04-07T14:37:08+0000",
+          "last_publication_date": "2021-04-07T14:37:08+0000",
+          "_id": "vik",
+          "link_type": "Document",
+          "isBroken": false
+        },
+        "medias": [
+          {
+            "media": "beta"
+          },
+          {
+            "media": "vik_da"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Comment éviter les crises de dermatite en prenant soin de ma peau ?",
+            "spans": []
+          }
+        ],
+        "banner": {
+          "dimensions": {
+            "width": 150,
+            "height": 150
+          },
+          "alt": "Dermatite atopique : prendre soin de sa peau ",
+          "copyright": null,
+          "url": "https://images.prismic.io/wefight-medias/59817883-4ef1-4ebd-bebb-616daa2c7a53_soin-peau-dermatite.jpg?auto=compress,format&rect=984,0,3988,3988&w=150&h=150",
+          "large": {
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "alt": "Dermatite atopique : prendre soin de sa peau ",
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/59817883-4ef1-4ebd-bebb-616daa2c7a53_soin-peau-dermatite.jpg?auto=compress,format&rect=997,0,3988,3988&w=300&h=300"
+          },
+          "small": {
+            "dimensions": {
+              "width": 200,
+              "height": 200
+            },
+            "alt": "Dermatite atopique : prendre soin de sa peau ",
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/59817883-4ef1-4ebd-bebb-616daa2c7a53_soin-peau-dermatite.jpg?auto=compress,format&rect=997,0,3988,3988&w=200&h=200"
+          }
+        },
+        "quote": [
+          {
+            "type": "paragraph",
+            "text": "Aujourd’hui, je te partage des conseils pour éviter les crises ou l’apparition de ta dermatite en évitant certains types de produits, et des astuces pour prendre soin de ta peau. ",
+            "spans": []
+          }
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Quand on vit avec une dermatite atopique, on peut avoir une crise de la maladie en réaction à certains produits ou substances du quotidien. Une crise est une exacerbation (une aggravation) de la dermatite déjà présente. Mais tu peux aussi avoir une dermatite de contact, celle-ci est allergique ou irritative, alors les symptômes apparaissent à l’utilisation du produit.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Aujourd’hui, je te partage des conseils pour éviter les crises ou l’apparition de ta dermatite en évitant certains types de produits, et des astuces pour prendre soin de ta peau.  ",
+            "spans": [
+              {
+                "start": 27,
+                "end": 95,
+                "type": "strong"
+              },
+              {
+                "start": 154,
+                "end": 177,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "heading2",
+            "text": "Qu’est-ce qui déclenche ou aggrave ta dermatite ? ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Les produits de beauté et d’hygiène peuvent entraîner une crise quand on vit avec la dermatite. Beaucoup de ces produits peuvent faire réagir ta peau, la liste est longue : déodorant, maquillage, démaquillant, teinture, spray, soins du visage, soins des cheveux, spray. En général, une réaction de dermatite entraîne de l’urticaire (plaques rouges), un prurit (démangeaisons), un œdème (gonflement de la peau). Si tu es en poussée de dermatite, certains produits d’hygiène quotidienne et de beauté peuvent aggraver les symptômes.  ",
+            "spans": [
+              {
+                "start": 96,
+                "end": 149,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Tu dois déjà faire attention aux teintures. Tu peux avoir des signes d'allergies à tes propres produits, mais aussi chez un professionnel. Des molécules agressives pour ta peau peuvent aussi se trouver dans le maquillage, le parfum, le déodorant et le savon. Ces molécules qui aggravent ou déclenchent la dermatite sont les huiles essentielles, les rétinoïdes, les fragrances, le polyéthylène glycol et l’éthanol (très présent dans les parfums, déodorants et démaquillants).  ",
+            "spans": [
+              {
+                "start": 33,
+                "end": 42,
+                "type": "strong"
+              },
+              {
+                "start": 143,
+                "end": 163,
+                "type": "strong"
+              },
+              {
+                "start": 210,
+                "end": 220,
+                "type": "strong"
+              },
+              {
+                "start": 225,
+                "end": 231,
+                "type": "strong"
+              },
+              {
+                "start": 236,
+                "end": 246,
+                "type": "strong"
+              },
+              {
+                "start": 252,
+                "end": 257,
+                "type": "strong"
+              },
+              {
+                "start": 324,
+                "end": 343,
+                "type": "strong"
+              },
+              {
+                "start": 349,
+                "end": 359,
+                "type": "strong"
+              },
+              {
+                "start": 365,
+                "end": 375,
+                "type": "strong"
+              },
+              {
+                "start": 380,
+                "end": 400,
+                "type": "strong"
+              },
+              {
+                "start": 403,
+                "end": 413,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Le henné, produit cosmétique naturel, est une poudre à base de plantes dont les feuilles sont séchées et broyées. Mélangé avec de l’eau, le henné devient une pâte avec laquelle on dessine sur les mains et les bras. Tu l’utilises peut-être pour dessiner tes sourcils, par exemple. Toutefois, le henné, même artisanal, peut être allergène donc s’il te déclenche une dermatite de contact il est à éviter. Le khôl, utilisé comme highliner, peut provoquer une allergie au niveau de l'œil. La myrrhe, utilisé comme parfum, peut déclencher une dermatite de contact allergique également.  ",
+            "spans": [
+              {
+                "start": 3,
+                "end": 8,
+                "type": "strong"
+              },
+              {
+                "start": 405,
+                "end": 409,
+                "type": "strong"
+              },
+              {
+                "start": 487,
+                "end": 493,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Les substances irritantes ou allergènes sont présentes dans de nombreux produits d’hygiène, mais tu peux prendre soin de toi et éviter les crises grâce à produits de substitution ! ",
+            "spans": []
+          },
+          {
+            "type": "heading2",
+            "text": "Quels produits utiliser pour éviter les exacerbations de la dermatite ? ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Si tu vis avec la dermatite, tu ne sais pas forcément quelles molécules déclenchent tes crises, tu n’as peut-être pas fait de test allergologique. Naturellement, si tu constates une crise de dermatite à l’utilisation d’un produit, tu sauras arrêter de l’appliquer. Mais si tu veux des alternatives douces et compatibles avec ta dermatite, voilà ce que tu peux utiliser ! ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour enlever les poils faciaux, je conseille l’épilation au fil. Ici, pas de produit supplémentaire, juste un outil qui permet de retirer les poils au niveau des sourcils et de la moustache.  ",
+            "spans": [
+              {
+                "start": 45,
+                "end": 63,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "En général, les produits hypoallergéniques sont plutôt bons. Par contre, certains labels ou produits “hypoallergéniques” ne sont pas honnêtes et contiennent des substances allergènes, alors surveille la composition. Pour connaître les substances auxquelles tu es allergique, je t’invite à consulter un allergologue et à faire un test allergologique.  ",
+            "spans": [
+              {
+                "start": 190,
+                "end": 214,
+                "type": "strong"
+              },
+              {
+                "start": 289,
+                "end": 314,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Les produits à base minérale, et les produits à base d’acide hyaluronique peuvent fortement aider à diminuer les risques d’inflammation.  ",
+            "spans": [
+              {
+                "start": 4,
+                "end": 28,
+                "type": "strong"
+              },
+              {
+                "start": 46,
+                "end": 73,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Les produits médicaux (crème, maquillage…) vendus en pharmacie peuvent aussi aider à réduire les réactions de ta peau. Tu peux demander conseil à ton pharmacien et vérifier les substances des produits sur la notice, car certains produits présentent un label médical et pourtant ne sont pas totalement sains.  ",
+            "spans": [
+              {
+                "start": 4,
+                "end": 22,
+                "type": "strong"
+              },
+              {
+                "start": 136,
+                "end": 160,
+                "type": "strong"
+              },
+              {
+                "start": 164,
+                "end": 214,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Et si malgré tout, tu as encore des crises de dermatite, ne t’en fais pas, tu peux encore avoir du pouvoir sur la maladie ! Pour mieux gérer les effets secondaires, voici quelques pratiques qui peuvent t’aider :  ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Lis bien les instructions et labels des produits que tu utilises ",
+            "spans": [
+              {
+                "start": 13,
+                "end": 26,
+                "type": "strong"
+              },
+              {
+                "start": 29,
+                "end": 36,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "Arrête l’utilisation des produits qui réagissent mal sur ta peau ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Fais un test allergologique pour savoir quelles substances te provoquent des crises et les éviter ",
+            "spans": [
+              {
+                "start": 8,
+                "end": 27,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "Assure-toi de la date d’expiration. Les produits d’hygiène et de beauté ont aussi une date limite (souvent : environ douze mois après l’ouverture) ",
+            "spans": [
+              {
+                "start": 17,
+                "end": 34,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "Parles-en à ton médecin. Suite à son avis, tu pourrais avoir un traitement oral ou topique (sur la peau) pour diminuer les symptômes ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 23,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "Si tu ne peux pas arrêter l’utilisation d’un produit, essaye de limiter le temps d’application sur ta peau avant de bien nettoyer ",
+            "spans": [
+              {
+                "start": 64,
+                "end": 94,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "Si les exacerbations ne sont pas importantes et ne nécessitent pas de traitement, je te conseille d’attendre que la crise se calme d’elle-même. Essaye de ne pas utiliser le produit en attendant que ça passe ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En résumé, le mieux est de consulter ton médecin pour savoir quelles sont les substances et les produits qui font réagir ta peau, de les éviter, et de choisir des options hypoallergéniques ou médicales en vérifiant la notice.  ",
+            "spans": [
+              {
+                "start": 27,
+                "end": 48,
+                "type": "strong"
+              },
+              {
+                "start": 171,
+                "end": 189,
+                "type": "strong"
+              },
+              {
+                "start": 192,
+                "end": 202,
+                "type": "strong"
+              },
+              {
+                "start": 205,
+                "end": 224,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour plus d’informations et de conseils sur la dermatite atopique, pose-moi toutes tes questions dans le chat sur Vik Dermatite Atopique !  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En espérant t’avoir aidé,  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Avec tout mon amour,  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Vik ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          }
+        ],
+        "seo_title": [
+          {
+            "type": "heading1",
+            "text": "Comment éviter les crises de dermatite en prenant soin de ma peau ?",
+            "spans": []
+          }
+        ],
+        "seo_description": [
+          {
+            "type": "paragraph",
+            "text": "Aujourd’hui, je te partage des conseils pour éviter les crises ou l’apparition de ta dermatite en évitant certains types de produits, et des astuces pour prendre soin de ta peau. ",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YqNC3BEAACMA2c1A",
+      "_id": "chaleur-conseils-eviter-crises",
+      "url": null,
+      "type": "article",
+      "href": "https://wefight-medias.cdn.prismic.io/api/v2/documents/search?ref=Y4UIbRAAACAApMsc&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YqNC3BEAACMA2c1A%22%29+%5D%5D",
+      "tags": [],
+      "date": "2022-06-10T14:21:43+0000",
+      "last_publication_date": "2022-06-10T14:21:43+0000",
+      "slugs": [
+        "forte-chaleur--4-conseils-pour-eviter-les-crises-de-dermatite-atopique"
+      ],
+      "linked_documents": [],
+      "lang": "fr-fr",
+      "alternate_languages": [],
+      "data": {
+        "type_article": null,
+        "canonical_url_on_media": "vik_da",
+        "author": {
+          "id": "YGLvzxAAAB8AMCkQ",
+          "type": "auteurs",
+          "tags": [],
+          "lang": "fr-fr",
+          "slug": "vik",
+          "date": "2021-04-07T14:37:08+0000",
+          "last_publication_date": "2021-04-07T14:37:08+0000",
+          "_id": "vik",
+          "link_type": "Document",
+          "isBroken": false
+        },
+        "medias": [
+          {
+            "media": "beta"
+          },
+          {
+            "media": "vik_da"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Forte chaleur : 4 conseils pour éviter les crises de dermatite atopique",
+            "spans": []
+          }
+        ],
+        "banner": {
+          "dimensions": {
+            "width": 150,
+            "height": 150
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/wefight-medias/64c50d59-237e-4cb9-b7ba-aae486c18f56_forte-chaleur-dermatite-atopique.jpg?auto=compress,format&rect=987,0,4000,4000&w=150&h=150",
+          "large": {
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/64c50d59-237e-4cb9-b7ba-aae486c18f56_forte-chaleur-dermatite-atopique.jpg?auto=compress,format&rect=1000,0,4000,4000&w=300&h=300"
+          },
+          "small": {
+            "dimensions": {
+              "width": 200,
+              "height": 200
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/64c50d59-237e-4cb9-b7ba-aae486c18f56_forte-chaleur-dermatite-atopique.jpg?auto=compress,format&rect=1000,0,4000,4000&w=200&h=200"
+          }
+        },
+        "quote": [
+          {
+            "type": "paragraph",
+            "text": "Vivre avec la dermatite atopique quand il fait très chaud, c’est difficile, mais c’est possible grâce à quelques astuces. Voici mes quatre conseils pour mieux vivre pendant les fortes chaleurs avec ta dermatite : ",
+            "spans": []
+          }
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "La peau génère naturellement une barrière protectrice contre les agressions extérieures. La dermatite atopique est une maladie qui détériore cette barrière. Elle provoque des inflammations qui sont aggravées par des facteurs environnementaux comme la chaleur. Quand il fait chaud, on transpire. La sueur irrite la peau, qui est encore plus sensible si elle est exposée au soleil. Alors comment gérer sa dermatite atopique quand il fait très chaud ?   ",
+            "spans": [
+              {
+                "start": 175,
+                "end": 258,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Si la dermatite atopique peut être aggravée par les climats chauds, on peut cependant prendre quelques précautions pour éviter les crises et limiter les symptômes.  ",
+            "spans": [
+              {
+                "start": 93,
+                "end": 137,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "heading2",
+            "text": " 1. Se protéger de la chaleur et du soleil ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour que ta peau respire et soit moins agressée par le tissu, tu peux choisir des habits 100 % coton, en bambou ou en soie. Ces matières sont douces pour la peau et absorbent la sueur. Avec ces matières, tu peux choisir des vêtements amples et légers qui laisseront ta peau respirer.  ",
+            "spans": [
+              {
+                "start": 78,
+                "end": 122,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Quand tu es exposé au soleil, porte un chapeau et des lunettes de soleil qui protègeront ton visage, et particulièrement tes paupières qui sont des zones sensibles pour la dermatite atopique.  ",
+            "spans": [
+              {
+                "start": 36,
+                "end": 72,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour compléter cette protection, il est fortement recommandé d’utiliser de l’écran solaire. Mais prends soin de lire les composants : les produits à base de silicone sont préférables pour les peaux sensibles, mais il faut être sûr de ne pas y être allergique.  ",
+            "spans": [
+              {
+                "start": 75,
+                "end": 90,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Tu peux aussi te rafraîchir tout en hydratant la peau grâce aux crèmes et sprays d’eau thermale. Bien sûr, s’hydrater en buvant de l’eau reste capital ! ",
+            "spans": [
+              {
+                "start": 64,
+                "end": 95,
+                "type": "strong"
+              },
+              {
+                "start": 107,
+                "end": 136,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "heading2",
+            "text": " 2. Hydrater la peau avant et après le contact de l’eau ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Nager, dans une piscine ou dans la mer, est possible quand on vit avec la dermatite atopique. Mais tu dois bien protéger ta peau et l’hydrater. Le chlore de la piscine affecte la peau et peut causer des irritations. Pour éviter cette agression, tu peux mettre de l'émollient trente minutes avant de te baigner. L’émollient est une crème qui adoucit, relâche et protège la peau : c’est un produit qui apaise la peau, la couvrant avec un film protecteur pour piéger l’humidité et la maintenir hydratée, qui est détériorée par la dermatite atopique. Après la baignade, lave-toi bien pour éliminer les substances irritantes, puis remets de l’émollient. Si tu as déjà des lésions, je déconseille la natation jusqu’à la guérison.  ",
+            "spans": [
+              {
+                "start": 263,
+                "end": 309,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour éliminer la transpiration (source d’irritation), je suggère des douches courtes et fraîches. Pour sécher la peau, tu peux tapoter au lieu de frotter, cela évite l’irritation.  ",
+            "spans": [
+              {
+                "start": 65,
+                "end": 96,
+                "type": "strong"
+              },
+              {
+                "start": 127,
+                "end": 153,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Si c’est ton enfant qui vit avec la dermatite atopique et qu’il joue dans le sable de la plage, il vaut mieux lui appliquer de l’émollient avant l’activité, bien nettoyer sa peau quand il a terminé de jouer, et lui réappliquer de l’émollient.  ",
+            "spans": []
+          },
+          {
+            "type": "heading2",
+            "text": " 3. Éviter les substances agressives ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Quand on vit avec la dermatite atopique, beaucoup de substances (pollution, pollens...) peuvent être agressives, irritantes pour la peau. Pour limiter le contact avec ces substances, tu peux prendre quelques précautions :  ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Limiter les expositions aux pollens et à la pollution ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Rincer correctement tes cheveux le soir avant d’aller se coucher ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Éviter de faire sécher ton linge à l’extérieur ",
+            "spans": []
+          },
+          {
+            "type": "heading2",
+            "text": " 4. Se détendre pour mieux dormir  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Les irritations de la dermatite atopique peuvent être aggravées par le stress et l’excitation. Pour éviter les démangeaisons, notamment nocturnes, je conseille de diminuer les stimulations après 18H, comme le sport ou les jeux vidéo. Pour dormir plus sereinement, une petite séance de méditation avant de te coucher peut aider.  ",
+            "spans": [
+              {
+                "start": 264,
+                "end": 295,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.petitbambou.com/fr/",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour le dîner, tu peux éviter les boissons excitantes et les repas trop copieux.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour en savoir plus sur la dermatite atopique, tu peux me poser toutes tes questions dans le chat sur Vik Dermatite Atopique !  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En espérant t’avoir aidé, ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Avec tout mon amour,  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Vik ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Sources :  ",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "https://eczema.org/wp-content/uploads/Childhood-Atopic-Eczema-booklet-2021.pdf  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 78,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://eczema.org/wp-content/uploads/Childhood-Atopic-Eczema-booklet-2021.pdf",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "https://www.healthline.com/health/severe-eczema/questions-ask-dermatologist  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 75,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.healthline.com/health/severe-eczema/questions-ask-dermatologist",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "text": "https://www.fondationeczema.org/en/be-acompanied/useful-advice/sun-good-atopic-eczema  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 85,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.fondationeczema.org/en/be-acompanied/useful-advice/sun-good-atopic-eczema",
+                  "target": "_blank"
+                }
+              }
+            ]
+          }
+        ],
+        "seo_title": [
+          {
+            "type": "heading1",
+            "text": "Forte chaleur : 4 conseils pour éviter les crises de dermatite atopique",
+            "spans": []
+          }
+        ],
+        "seo_description": [
+          {
+            "type": "paragraph",
+            "text": "Vivre avec la dermatite atopique quand il fait très chaud, c’est difficile, mais c’est possible grâce à quelques astuces. Voici mes quatre conseils pour mieux vivre pendant les fortes chaleurs avec ta dermatite : ",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YHRmfxMAACEAl1Jr",
+      "_id": "portraitcamille",
+      "url": null,
+      "type": "article",
+      "href": "https://wefight-medias.cdn.prismic.io/api/v2/documents/search?ref=Y4UIbRAAACAApMsc&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YHRmfxMAACEAl1Jr%22%29+%5D%5D",
+      "tags": [],
+      "date": "2021-04-12T15:25:56+0000",
+      "last_publication_date": "2021-08-30T13:07:52+0000",
+      "slugs": [
+        "la-dermatite-atopique-ma-appris-a-etre-100-moi-meme-"
+      ],
+      "linked_documents": [],
+      "lang": "fr-fr",
+      "alternate_languages": [
+        {
+          "id": "YpU03hEAACIAmv5f",
+          "type": "article",
+          "lang": "pt-br",
+          "_id": "perfilcamille"
+        }
+      ],
+      "data": {
+        "type_article": "portrait",
+        "canonical_url_on_media": "vik_da",
+        "author": {
+          "id": "YGLvzxAAAB8AMCkQ",
+          "type": "auteurs",
+          "tags": [],
+          "lang": "fr-fr",
+          "slug": "vik",
+          "date": "2021-04-07T14:37:08+0000",
+          "last_publication_date": "2021-04-07T14:37:08+0000",
+          "_id": "vik",
+          "link_type": "Document",
+          "isBroken": false
+        },
+        "medias": [
+          {
+            "media": "vik_da"
+          },
+          {
+            "media": "beta"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "La dermatite atopique m'a appris à être 100% moi-même !",
+            "spans": []
+          }
+        ],
+        "banner": {
+          "dimensions": {
+            "width": 150,
+            "height": 150
+          },
+          "alt": "Camille Vorain, holaeczéma",
+          "copyright": null,
+          "url": "https://images.prismic.io/wefight-medias/b87acda7-0505-4f40-bc3f-23fa1115e276_CAMILLE+DA.png?auto=compress,format&rect=50,0,930,930&w=150&h=150",
+          "large": {
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/b87acda7-0505-4f40-bc3f-23fa1115e276_CAMILLE+DA.png?auto=compress,format&rect=50,0,930,930&w=300&h=300"
+          },
+          "small": {
+            "dimensions": {
+              "width": 200,
+              "height": 200
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/b87acda7-0505-4f40-bc3f-23fa1115e276_CAMILLE+DA.png?auto=compress,format&rect=51,0,930,930&w=200&h=200"
+          }
+        },
+        "quote": [
+          {
+            "type": "paragraph",
+            "text": "Camille vit avec l'eczéma atopique depuis son plus jeune âge. Aujourd'hui, elle a fait de sa maladie une force. Découvre son histoire dans cet article. ",
+            "spans": []
+          }
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "“Ma dermatite atopique est revenue de plus belle à l’âge de 24 ans. C’était l’enfer. Je suis atteinte de cette forme sévère d'eczéma depuis mes trois mois mais elle avait quasiment disparue à l’adolescence. Cette année-là, la crise a duré 14 mois en quasi continu. J’étais partie vivre au Costa Rica, l’humidité n’a pas dû aider. Je n’arrivais plus à dormir, du coup j’étais extrêmement fatiguée, c’était compliqué de travailler et le regard des autres faisait que je me renfermais encore plus.\nLe plus dur c’est de ne pas savoir quoi faire pour que ça s'arrête et de n’avoir personne vers qui se tourner. Pour un rendez-vous avec un dermatologue, il faut compter 3 à 6 mois !\nPour gérer, j’ai déconstruit toutes les sphères de ma vie : adapté mon alimentation, modifié ma relation aux autres en essayant d’être moi-même à 100% sans toujours chercher à m’adapter. Côté travail, je me suis formée au coaching en santé car j’ai compris que pour traiter les maladies chroniques, il fallait aider les personnes à mettre en place des changements d’hygiène de vie globaux et non traiter uniquement les symptômes. 50% du traitement est aussi de se sentir écoutée. J’ai eu envie de devenir cette personne pour les autres.”\n",
+            "spans": [
+              {
+                "start": 1,
+                "end": 1211,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Camille, 28 ans a accepté de partager son expérience avec la communauté Vik pour aider un maximum de personnes qui passent par là. Elle est aussi l'ambassadrice officielle de Vik Dermatite Atopique !",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "\nSi tu as des questions sur la dermatite atopique, tu peux venir me les poser ici : ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Sur IOS : https://cutt.ly/igTDFy9\nSur Android : https://cutt.ly/ZgTDdMH",
+            "spans": [
+              {
+                "start": 10,
+                "end": 33,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://cutt.ly/igTDFy9?fbclid=IwAR2swtoqjk4ldKN-K79I3cA5SWuHmphjQlGISpK-a9FdnOVRY1Rx1MUc0mg",
+                  "target": "_blank"
+                }
+              },
+              {
+                "start": 48,
+                "end": 71,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://cutt.ly/ZgTDdMH?fbclid=IwAR3vAq22tRIVczjhoAUop2ZmRyaQ_fCyDgdX0PC1Kg7iYAojnIVX5XJspRI",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Avec Beaucoup d'amour,  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Vik. ❤️\n",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          }
+        ],
+        "seo_title": [
+          {
+            "type": "heading1",
+            "text": "La dermatite atopique m'a appris à être 100% moi-même !",
+            "spans": []
+          }
+        ],
+        "seo_description": [
+          {
+            "type": "paragraph",
+            "text": "Camille vit avec l'eczéma atopique depuis son plus jeune âge. Découvre son histoire dans cet article. ",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YHR3YhMAACMAl57g",
+      "_id": "portrait-auriane",
+      "url": null,
+      "type": "article",
+      "href": "https://wefight-medias.cdn.prismic.io/api/v2/documents/search?ref=Y4UIbRAAACAApMsc&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YHR3YhMAACMAl57g%22%29+%5D%5D",
+      "tags": [],
+      "date": "2021-04-12T16:37:59+0000",
+      "last_publication_date": "2021-08-30T13:04:47+0000",
+      "slugs": [
+        "tout-ce-que-leczema-atopique-ma-appris"
+      ],
+      "linked_documents": [],
+      "lang": "fr-fr",
+      "alternate_languages": [
+        {
+          "id": "YpU1AREAACMAmv8J",
+          "type": "article",
+          "lang": "pt-br",
+          "_id": "depoimento-auriane"
+        }
+      ],
+      "data": {
+        "type_article": "portrait",
+        "canonical_url_on_media": "vik_da",
+        "author": {
+          "id": "YGLvzxAAAB8AMCkQ",
+          "type": "auteurs",
+          "tags": [],
+          "lang": "fr-fr",
+          "slug": "vik",
+          "date": "2021-04-07T14:37:08+0000",
+          "last_publication_date": "2021-04-07T14:37:08+0000",
+          "_id": "vik",
+          "link_type": "Document",
+          "isBroken": false
+        },
+        "medias": [
+          {
+            "media": "vik_da"
+          },
+          {
+            "media": "beta"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Tout ce que l'eczéma atopique m'a appris",
+            "spans": []
+          }
+        ],
+        "banner": {
+          "dimensions": {
+            "width": 150,
+            "height": 150
+          },
+          "alt": "Eczéma, Phytophileae",
+          "copyright": null,
+          "url": "https://images.prismic.io/wefight-medias/adb93be2-3e7f-482e-9950-0f2ab5714881_Capture+d%E2%80%99%C3%A9cran+2021-04-12+%C3%A0+18.32.16.png?auto=compress,format&rect=107,0,1458,1458&w=150&h=150",
+          "large": {
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/adb93be2-3e7f-482e-9950-0f2ab5714881_Capture+d%E2%80%99%C3%A9cran+2021-04-12+%C3%A0+18.32.16.png?auto=compress,format&rect=107,0,1458,1458&w=300&h=300"
+          },
+          "small": {
+            "dimensions": {
+              "width": 200,
+              "height": 200
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/adb93be2-3e7f-482e-9950-0f2ab5714881_Capture+d%E2%80%99%C3%A9cran+2021-04-12+%C3%A0+18.32.16.png?auto=compress,format&rect=102,0,1458,1458&w=200&h=200"
+          }
+        },
+        "quote": [
+          {
+            "type": "paragraph",
+            "text": "\"Cet été ma dermatite atopique m’a fait passer pas loin de la dépression\". Auriane raconte dans ce témoignage ce que lui a appris l'eczéma atopique et comment elle a appris à mieux vivre avec. Merci d'avoir partagé tout cela !",
+            "spans": []
+          }
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "“Cet été ma dermatite atopique m’a fait passer pas loin de la dépression. C’était un enfer, 70% de mon corps était couvert de plaques. C’est pas juste que ça gratte, ça brûle au point que c’est impossible de ne pas s’arracher la peau, parfois jusqu’au sang. Et il y a les douleurs articulaires, au point que j’avais du mal à bouger les bras. Quand je passais devant un miroir et que je voyais mon visage déformé à cause de l'inflammation, j’avais envie de pleurer.",
+            "spans": [
+              {
+                "start": 1,
+                "end": 464,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "\nC’est pernicieux la dermatite car toute la routine devient compliquée : prendre une douche est un enfer car ça fait mal, je dois faire attention à ce que je mange, à mes vêtements, sans parler du manque de sommeil. Et ça isole. Les gens ne comprennent pas. C’est une maladie moche. J’aimerais leur dire que c’est pas contagieux et que NON ce n’est pas le stress. Les causes sont multifactorielles: le facteur génétique, les allergies, l’état émotionnel…",
+            "spans": [
+              {
+                "start": 0,
+                "end": 454,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "\nMa maladie m’a aussi beaucoup appris : à me respecter, respecter mon corps, à m’adapter au quotidien et à poursuivre mes rêves. Cela faisait des années que je voulais partager ma passion des plantes, et là je viens de créer ma page Instagram @phytophileae dans laquelle je raconte mon quotidien avec la dermatite et comment les plantes m’aident. Cela m’a aussi orienté vers mon mon master en valorisation des ressources végétales pour les cosmétiques. Mon rêve est d’aller jusqu’au bout de ces projets pour donner encore plus de conseils pour mieux vivre grâce aux plantes et notamment avec la dermatite atopique”\n\nAuriane, 26 ans a témoigné de son expérience avec la communauté Vik pour aider un maximum de personnes qui passent par là.\n\nSi tu es aussi touché par la Dermatite et que tu as des questions sur la maladie, n'hésite pas à me les poser c'est ici : 👇🏻\nIOS : https://cutt.ly/igTDFy9\nAndroid : https://cutt.ly/ZgTDdMH",
+            "spans": [
+              {
+                "start": 0,
+                "end": 614,
+                "type": "em"
+              },
+              {
+                "start": 243,
+                "end": 256,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.instagram.com/phytophileae/?hl=fr"
+                }
+              },
+              {
+                "start": 873,
+                "end": 896,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://cutt.ly/igTDFy9?fbclid=IwAR0-M21Tq59GfX7rKJaXdUK1C9OJsNQ5F7ZtZe_SO2w044jSdljz6DpBLuM",
+                  "target": "_blank"
+                }
+              },
+              {
+                "start": 907,
+                "end": 930,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcutt.ly%2FZgTDdMH%3Ffbclid%3DIwAR2pT1pW0UC1m_o4KTyE9Jak1--UyWtVdYLoOFud4hskgd_mzr_syaZv_4Q&h=AT3QafiaScGSice6BJQkX5fGlvfQYktHHCkO9o9_jAzmK_oJ6GbnaaqtK8TAiqlupGz0pnDketrz_ZP69yBmyGKeKg6Cm4V9VZ80yanXGIaFgRDjIpueWfq3gIBw6OFoz3KyraGnCg&__tn__=-UK*F",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Avec tout mon amour,",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Vik. ❤️\n",
+            "spans": []
+          }
+        ],
+        "seo_title": [
+          {
+            "type": "heading1",
+            "text": "Tout ce que l'eczéma a appris à Auriane !",
+            "spans": []
+          }
+        ],
+        "seo_description": [
+          {
+            "type": "paragraph",
+            "text": "Auriane raconte dans ce témoignage ce que lui a appris l'eczéma atopique et comment elle a appris à mieux vivre avec. ",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Y0gFDxEAAOsI5CrA",
+      "_id": "allier-conscience-ecologique-maladie",
+      "url": null,
+      "type": "article",
+      "href": "https://wefight-medias.cdn.prismic.io/api/v2/documents/search?ref=Y4UIbRAAACAApMsc&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Y0gFDxEAAOsI5CrA%22%29+%5D%5D",
+      "tags": [],
+      "date": "2022-10-14T22:00:09+0000",
+      "last_publication_date": "2022-10-14T22:00:09+0000",
+      "slugs": [
+        "comment-la-sante-ma-rendue-plus-sensible-a-lecologie-"
+      ],
+      "linked_documents": [],
+      "lang": "fr-fr",
+      "alternate_languages": [
+        {
+          "id": "Y1hH0BEAAEolLQNv",
+          "type": "article",
+          "lang": "it-it",
+          "_id": "come-la-mia-condizione-di-salute-mi-ha-reso-piu-consapevole-dal-punto-di-vista-ecologico"
+        },
+        {
+          "id": "Y2rKnhEAAJUcf5-M",
+          "type": "article",
+          "lang": "pt-br",
+          "_id": "aliando-consciencia-ecologica-doenca"
+        }
+      ],
+      "data": {
+        "type_article": "advice",
+        "canonical_url_on_media": "vik_da",
+        "author": {
+          "id": "YGLj9BAAACEAL_b0",
+          "type": "auteurs",
+          "tags": [],
+          "lang": "fr-fr",
+          "slug": "camille-patiente-experte-et-coach-sante",
+          "date": "2021-04-08T15:09:21+0000",
+          "last_publication_date": "2021-04-08T15:09:21+0000",
+          "_id": "camille-patiente-et-coach-sante",
+          "link_type": "Document",
+          "isBroken": false
+        },
+        "medias": [
+          {
+            "media": "beta"
+          },
+          {
+            "media": "vik_depression"
+          },
+          {
+            "media": "vik_migraine"
+          },
+          {
+            "media": "vik_ovaire"
+          },
+          {
+            "media": "vik_poumon"
+          },
+          {
+            "media": "vik_sein"
+          },
+          {
+            "media": "vik_asthme"
+          },
+          {
+            "media": "vik_mm"
+          },
+          {
+            "media": "vik_prostate"
+          },
+          {
+            "media": "vik_da"
+          },
+          {
+            "media": "vik_llc"
+          },
+          {
+            "media": "vik_mici"
+          },
+          {
+            "media": "vik_psoriasis"
+          },
+          {
+            "media": "vik_bpco"
+          },
+          {
+            "media": "vik_lam"
+          },
+          {
+            "media": "vik_sep"
+          },
+          {
+            "media": "vik_rheumatoid_arthritis"
+          },
+          {
+            "media": "vik_idiopathic_pulmonary_fibrosis"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Comment la santé m’a rendue plus sensible à l’écologie ?",
+            "spans": []
+          }
+        ],
+        "banner": {
+          "dimensions": {
+            "width": 150,
+            "height": 150
+          },
+          "alt": "femme qui marche dans un parc en fin de journée",
+          "copyright": null,
+          "url": "https://images.prismic.io/wefight-medias/064aa40a-a6a6-4347-8b6e-05a0cd488661_emma-simpson-mNGaaLeWEp0-unsplash.jpg?auto=compress,format&rect=924,0,3648,3648&w=150&h=150",
+          "large": {
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/064aa40a-a6a6-4347-8b6e-05a0cd488661_emma-simpson-mNGaaLeWEp0-unsplash.jpg?auto=compress,format&rect=912,0,3648,3648&w=300&h=300"
+          },
+          "small": {
+            "dimensions": {
+              "width": 200,
+              "height": 200
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/wefight-medias/064aa40a-a6a6-4347-8b6e-05a0cd488661_emma-simpson-mNGaaLeWEp0-unsplash.jpg?auto=compress,format&rect=912,0,3648,3648&w=200&h=200"
+          }
+        },
+        "quote": [
+          {
+            "type": "paragraph",
+            "text": "Allier le quotidien de patient et choix en termes d’écologie n’est pas toujours simple. Ce sentiment peut laisser place à une certaine culpabilité voire de l'éco-anxiété. Mais tu n'y es pour rien ! Voici quelques gestes quotidien pour trouver un équilibre entre tes valeurs et ta santé !",
+            "spans": []
+          }
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Il y a quelques années, aussi contradictoire que ce soit, c’est en partant à l’autre bout du monde que j’ai compris les enjeux écologiques auxquels nous faisions face. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En effet, en passant plus de temps en forêt ou les mains dans la terre, à découvrir les bienfaits des plantes ou de la biodiversité, j’ai compris que la Nature était un cadeau et qu’elle nous maintenait en vie. Alors si je voulais continuer à vivre, il était nécessaire de la préserver. Le voyage a donc été l’élément déclencheur de mon éveil à l’écologie. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Loin de moi l’idée de te propulser dans une vague d’éco-anxiété. J’ai plutôt le désir de te partager mon cheminement en tant que patiente pour trouver l’équilibre entre éco-conscience et quotidien avec une maladie. \n",
+            "spans": [
+              {
+                "start": 153,
+                "end": 214,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "heading2",
+            "text": "Accepter que mon quotidien de patiente soit loin du “zéro déchet”.\n",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Allier le quotidien de patient et nos choix en termes d’écologie n’est pas toujours simple. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Je suis atteinte d‘eczéma, et le zéro déchet dans ma salle de bain, c’est une chimère. Les produits naturels ne font pas toujours bon ménage avec la peau sensible. Une fois sur deux, ma peau ne supporte pas ce nouveau soin et fini au fond du placard, ou relégué dans celui de mes proches.   ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Cette dissonance entre mes actes et mes pensées devenaient de plus en plus dur à porter. Alors comment pouvais-je gagner en cohérence entre ma conscience écologique et mon quotidien avec une maladie ?  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En faisant le point, j’ai compris qu’au-delà du voyage, c’est aussi la santé qui m’a forcée à prendre soin de moi et du monde qui m’entoure.    ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "heading2",
+            "text": "Prendre soin de ma santé en passant par une consommation plus raisonnée.\n",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En 2017, en voulant modifier mon alimentation, j’ai découvert l’hygiénisme : “l’art de se nourrir et de se soigner en harmonie avec les lois de la nature.” Pour simplifier, j’ai appliqué les conseils appliqués par une naturopathe.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "J’ai alors découvert l’impact de notre consommation sur notre santé et sur l’environnement : l’alimentaire, les produits cosmétiques ou ménagers, l’industrie textile ou encore l’élevage.  ",
+            "spans": [
+              {
+                "start": 21,
+                "end": 32,
+                "type": "strong"
+              },
+              {
+                "start": 33,
+                "end": 90,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Après la claque reçue, j’ai commencé à agir à mon échelle. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Je me suis d'abord heurtée à la charge mentale de la maladie, qui se couplait à celle de l’écologie, au manque d’énergie et aussi au coût financier.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En troquant les produits ménagers par du vinaigre blanc, en limitant les produits transformés en cuisine ou encore en choisissant le minimalisme dans les placards. J’ai doucement trouvé l’équilibre entre ce que je voulais faire et ce que je pouvais faire. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "J’avais besoin d’un peu de temps et de perspective pour ajuster mes actions.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "“Faire sa part”* est important, cependant l’écologie est politique. Elle implique une refonte du modèle économique et social, une transition mondiale.  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 30,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Alors oui, J’ai toujours le cœur qui se serre quand je vois l’infirmière partir avec la piqûre de mon traitement, un déchet dont j’ignore s’il peut être recyclé. La culpabilité me gagne encore quand je prends un bain : éternel allié de ma peau. Je n’ai pas toujours la force de faire les courses les plus locales qui soient. D’autres fois, je priorise l’économie de mon énergie en choisissant la voiture plutôt que le vélo.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Néanmoins, en prenant soin de ma santé par une alimentation plus végétale et de meilleure qualité ou en choisissant des produits de seconde main, moins toxiques, je prends soin de mon environnement. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Il y a un temps pour tout, un temps pour la maladie et un temps pour l’écologie. ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 80,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "En temps de crise je favorise ma santé, en temps de répit, je m’implique à améliorer mes actions. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "heading2",
+            "text": "Améliorer ma santé mentale pour mieux vivre le changement environnemental",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "En plongeant dans l’univers de la santé, j’ai aussi découvert l’impact de notre esprit sur le corps. Passons le discours culpabilisant du “c’est dans votre tête” et allons à l’essentiel. Le stress c’est avant tout physiologique et, de manière prolongée, il nous pollue le corps. ",
+            "spans": [
+              {
+                "start": 187,
+                "end": 279,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Plus je prends conscience des enjeux sociétaux, plus je fais face à des émotions fortes telles que l’impuissance, la colère ou l’anxiété (coucou l’éco-anxiété). Mon hypersensibilité s’en voit décuplée et cela impacte considérablement mon niveau d’énergie ou mon envie d’agir. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Utiliser des outils de relaxation et avoir un suivi psychologique me permettent d'apprendre à traverser l'inconfort de la maladie et de l’anxiété généré par les changements environnementaux.  ",
+            "spans": [
+              {
+                "start": 94,
+                "end": 145,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "En apprenant à être mieux dans mes baskets, je retrouve du courage et la confiance d’avancer dans la vie et de m’impliquer dans la transition par des choix de consommation plus responsables. ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Face à cette réalité anxiogène, de plus en plus de personnes se retrouvent elles aussi dans les définitions de l’éco-anxiété ou “solastalgie”. La “solastalgie” elle est liée à un deuil de ce qui est déjà perdu tandis que l'éco-anxiété est liée à ce qui peut arriver. ",
+            "spans": [
+              {
+                "start": 223,
+                "end": 267,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour sortir de la paralysie liée à ces émotions, Joanna Macy, militante écologiste, autrice, spécialiste, entre autres, de l'écopsychologie invite à exprimer son ressenti et accepter ses émotions afin de se remettre en mouvement. Elle a développé des ateliers autour de la méthode “le Travail qui relie”. ",
+            "spans": [
+              {
+                "start": 49,
+                "end": 60,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://eco-psychologie.com/recherche-2/analyse-critique-de-ecopsychologie-pratique-rituels-pour-la-terre-de-joanna-macy/"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "C’est donc ma prochaine étape. Si c’est aussi la tienne, je t’invite à découvrir l’émission radio “comment soigner l’éco-anxiété?” de France Inter “Grand bien vous fasse”.  ",
+            "spans": [
+              {
+                "start": 98,
+                "end": 130,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-lundi-29-aout-2022-8578058",
+                  "target": "_blank"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Nous avons chacun un cheminement différent, mais quand la maladie frappe à la porte, nous rencontrons souvent de la difficulté à agir en fonction de nos valeurs.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "\n\nEt toi, comment tu vis la maladie et ta conscience écologique ? As-tu des ressources à me partager ?   ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "\n\nPour plus d'informations pour mieux vivre en tant que patient, télécharge le Vik correspondant à ta maladie  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Si tu vis avec un cancer :  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "https://www.landing.wefight.co/vik-cancer  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 43,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.landing.wefight.co/vik-cancer"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Si tu vis avec une maladie chronique :  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "https://www.landing.wefight.co/vik-maladie-chronique  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 54,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.landing.wefight.co/vik-maladie-chronique"
+                }
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Sources :  ",
+            "spans": [
+              {
+                "start": 0,
+                "end": 10,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "*Comme l’écrivent les auteurs d’une étude  « Faire sa part ? »,  partagée par le cabinet de conseil Carbone: “l’engagement individuel est indispensable, mais insuffisant“.  ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "L'Écologie est politique / Auteur.e.s : Olivier Fressard, Catherine Larrère, Lucile Schmid ",
+            "spans": []
+          }
+        ],
+        "seo_title": [
+          {
+            "type": "heading1",
+            "text": "Comment la santé m’a rendue plus sensible à l’écologie ?",
+            "spans": []
+          }
+        ],
+        "seo_description": [
+          {
+            "type": "paragraph",
+            "text": "Allier conscience écologie et santé n'est pas toujours facile, cela nécessite parfois un fort taux de résilience. En tant que patient, il arrive souvent que l'on culpabilise des déchets engendrés par notre traitement et parcours de soins. Pour alléger l'éco-anxiété, voici quelques conseils dans cet article ! ",
+            "spans": []
+          }
+        ]
+      }
+    }
+  ],
+}
